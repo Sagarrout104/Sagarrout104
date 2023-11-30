@@ -12,6 +12,7 @@
   - **Tools:** Git, GitHub, VS Code
 
   ### 👯‍♂️ Let's Connect!
- 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">](www.linkedin.com/in/sagar-rout-468986251)
+  <a href="www.linkedin.com/in/sagar-rout-468986251">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"">
+  </a>
 
