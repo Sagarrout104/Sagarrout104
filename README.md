@@ -10,9 +10,3 @@
   - **Backend:** Node.js, Express.js, PHP, Laravel
   - **Database:** MongoDB, SQL
   - **Tools:** Git, GitHub, VS Code
-
-  ### 👯‍♂️ Let's Connect!
-  <a href="www.linkedin.com/in/sagar-rout-468986251">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"">
-  </a>
-
