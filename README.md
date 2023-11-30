@@ -1,4 +1,4 @@
- # 👋 Hello, I'm Sagar Rout!
+ # 👋 Hello, I'm Sagar Rout
 
   ## 🚀 Full-Stack Developer | Crafting Digital Experiences ✨
 
