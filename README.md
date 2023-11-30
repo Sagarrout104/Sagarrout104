@@ -1,11 +1,17 @@
-<div style="background-color: #4e54c8; padding: 20px; border-radius: 8px;">
+ # 👋 Hello, I'm Sagar Rout!
 
-  # 👋 Hey there, I'm [Your Name]!
+  ## 🚀 Full-Stack Developer | Crafting Digital Experiences ✨
 
-  ## 🚀 Full-Stack Alchemist | Crafting Digital Experiences ✨
+  Welcome to my GitHub playground! I build things with passion, and my code tells the story.
 
-  Welcome to my code sanctuary! I'm on a mission to turn caffeine into code and ideas into innovation.
+  ### 💻 Tech Stack
 
-  <!-- Add the rest of your content here -->
+  - **Frontend:** HTML, CSS, Bootstrap, JavaScript, React
+  - **Backend:** Node.js, Express.js, PHP, Laravel
+  - **Database:** MongoDB, SQL
+  - **Tools:** Git, GitHub, VS Code
 
-</div>
+  ### 👯‍♂️ Let's Connect!
+ 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">](www.linkedin.com/in/sagar-rout-468986251)
+
